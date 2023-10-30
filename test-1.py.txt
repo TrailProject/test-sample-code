@@ -48,6 +48,8 @@ with open(file_path, 'r+') as file:
 
 
 /*
+Output:
+=======
 test1
 test2
 test3
